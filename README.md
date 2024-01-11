@@ -8,15 +8,15 @@ Reactの理解を深めるために作りました！
 firebase認証の関係で、グーグルアカウントのみでログインできます。
 
 
-![ログイン画面](./image/login.png)
+![ログイン画面](./images/login.png)
 
-![ポップアップ](./image/Login2.png)
+![ポップアップ](./images/Login2.png)
 
-![ログイン後](./image/first_screen.png)
+![ログイン後](./images/first_screen.png)
 
-![メッセージの送信](./image/submit.png)
+![メッセージの送信](./images/submit.png)
 
-![デモ](./image/demo.png)
+![デモ](./images/demo.png)
 
 
 
