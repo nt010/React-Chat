@@ -10,11 +10,15 @@ firebase認証の関係で、グーグルアカウントのみでログインで
 
 ![ログイン画面](./images/login.png)
 
+
 ![ポップアップ](./images/Login2.png)
+
 
 ![ログイン後](./images/first_screen.png)
 
+
 ![メッセージの送信](./images/submit.png)
+
 
 ![デモ](./images/demo.png)
 
