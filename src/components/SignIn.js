@@ -10,8 +10,10 @@ function SignIn() {
   };
 
   return (
-    <div>
-      <Button onClick={signInWithGoogle}>グーグルでログインする</Button>
+    <div className="header">
+      <Button onClick={signInWithGoogle} variant="contained" color="primary">
+        グーグルでログインする
+      </Button>
     </div>
   );
 }
